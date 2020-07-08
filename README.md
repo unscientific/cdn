@@ -1,1 +1,1 @@
-# cdn
+# CDN by [jsdelivr](https://www.jsdelivr.com/)
